@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(237, 173, 97);
+  color: white;
+  overflow: hidden;
+  height: 5rem;
+  padding: 1.2rem;
+}
+.header h3 {
+  text-transform: uppercase;
+}

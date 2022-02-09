@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: sans-serif;
+  background-color: rgb(32, 32, 43);
+}
+body {
+  margin: 0;
+}
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}

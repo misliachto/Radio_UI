@@ -1,0 +1,18 @@
+.footer {
+  height: 5rem;
+  padding: 1.2rem;
+  width: 100%;
+  background-color: rgb(34, 34, 43);
+  border-top: 1px solid rgb(161, 169, 187);
+  text-align: center;
+}
+.footer p {
+  color: rgb(237, 173, 97);
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.footer h3 {
+  color: rgb(194, 194, 194);
+  font-size: 1.5rem;
+  margin-top: 0.2rem;
+}
